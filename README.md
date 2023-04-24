@@ -1,4 +1,4 @@
-## CMS.js Starter
+## CMS.js Starter forked
 
 **Quick Start**
 
